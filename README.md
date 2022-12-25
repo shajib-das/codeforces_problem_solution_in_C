@@ -1,1 +1,1 @@
-# codeforces_problem_solution_in_Cpp
+# codeforces_problem_solution_in_C
